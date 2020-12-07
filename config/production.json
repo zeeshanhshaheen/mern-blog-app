@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb://zeeshan123:zeeshan123@devconnector-shard-00-00.loxyk.mongodb.net:27017,devconnector-shard-00-01.loxyk.mongodb.net:27017,devconnector-shard-00-02.loxyk.mongodb.net:27017/<dbname>?ssl=true&replicaSet=atlas-vu00ss-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "42cadef9119be6a24a21",
+    "githubSecret": "406bd5abbc698ec0797faf510a83b0a4b4a495c4"
+  }
+  
